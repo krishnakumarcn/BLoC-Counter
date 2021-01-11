@@ -1,6 +1,6 @@
 # bloc_counter
 
-A new Flutter project.
+BLoC architecture starter project for quickly recaping the essentials. Part - I
 
 ## Getting Started
 
